@@ -25,6 +25,9 @@
 - [Best HVAC Contractor Va Reston](https://local-business-guides.github.io/american-hvac-services-reston/best-hvac-contractor-va-reston/): Searching for Best HVAC Contractor Va Reston? Get clear next steps for your Reston HVAC needs. Call American HVAC Services today to discuss your system.
 - [Top Rated HVAC Contractor Va Reston](https://local-business-guides.github.io/american-hvac-services-reston/top-rated-hvac-contractor-va-reston/): Looking for Top Rated HVAC Contractor Va Reston? Get help discussing heating and AC concerns at your Reston property. Call American HVAC Services today.
 
+## Newsroom
+- [Reston HVAC Guide Arrives With Video, Podcast and Audio Versions](https://local-business-guides.github.io/american-hvac-services-reston/news/2026-11-09-reston-hvac-guide-arrives-with-video-podcast-and/): American HVAC Services has released a Reston HVAC guide, with related video, podcast and audio content. (2026-11-09)
+
 ## Pages
 - [Hvac Contractor in Reston, Virginia](https://local-business-guides.github.io/american-hvac-services-reston/): Get residential or commercial HVAC and plumbing service for your needs in Reston. Call +1571-540-8300.
 - [About American HVAC Services](https://local-business-guides.github.io/american-hvac-services-reston/about/): About American HVAC Services, Reston.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/american-hvac-services-reston/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/american-hvac-services-reston/news/rss.xml)
 - [Main resource site](https://american-hvac-services-reston-va.localwebsites.chatgpt.site)

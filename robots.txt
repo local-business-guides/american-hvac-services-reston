@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/american-hvac-services-reston/sitemap.xml
+Sitemap: https://local-business-guides.github.io/american-hvac-services-reston/news-sitemap.xml
