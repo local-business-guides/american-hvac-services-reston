@@ -15,9 +15,9 @@
 
 ## Guides
 - [Air Conditioning Contractor Reston Customers Can Call](https://local-business-guides.github.io/american-hvac-services-reston/air-conditioning-contractor-reston/): Need an Air Conditioning Contractor Reston residents can reach any time? Get help planning AC service at home or work in Reston. Call American HVAC Services.
-- [HVAC Company Reston Homeowners Can Call](https://local-business-guides.github.io/american-hvac-services-reston/hvac-company-reston/): Need an HVAC Company Reston homeowners can call any time? Get help with home or business heating and cooling in Reston. Call American HVAC Services.
 - [Hvac Contractor Reston VA for Home HVAC Help](https://local-business-guides.github.io/american-hvac-services-reston/hvac-contractor-reston-va/): Need an Hvac Contractor Reston VA homeowners can call for heating or cooling help? Get clear next steps in Reston from American HVAC Services. Call today.
 - [HVAC Contractor Reston for Home and Business Needs](https://local-business-guides.github.io/american-hvac-services-reston/hvac-contractor-reston/): Find an HVAC Contractor Reston customers can call for home or business heating and cooling guidance. Get practical help in Reston from American HVAC Services.
+- [HVAC Company Reston Homeowners Can Call](https://local-business-guides.github.io/american-hvac-services-reston/hvac-company-reston/): Need an HVAC Company Reston homeowners can call any time? Get help with home or business heating and cooling in Reston. Call American HVAC Services.
 - [HVAC Installation Reston for Your Home](https://local-business-guides.github.io/american-hvac-services-reston/hvac-installation-reston/): Plan HVAC Installation Reston with a clear home checklist and practical questions for your contractor. Call American HVAC Services today for guidance.
 - [AC Installation Reston: A Homeowner's Guide](https://local-business-guides.github.io/american-hvac-services-reston/ac-installation-reston/): Prepare for AC Installation Reston with questions about equipment, home needs, and the work involved. Call American HVAC Services today to discuss it.
 - [HVAC Maintenance Reston for Your Home](https://local-business-guides.github.io/american-hvac-services-reston/hvac-maintenance-reston/): HVAC Maintenance Reston helps you plan routine care for your home's heating and cooling. Call American HVAC Services in Reston to arrange a visit.
@@ -26,6 +26,7 @@
 - [Top Rated HVAC Contractor Va Reston](https://local-business-guides.github.io/american-hvac-services-reston/top-rated-hvac-contractor-va-reston/): Looking for Top Rated HVAC Contractor Va Reston? Get help discussing heating and AC concerns at your Reston property. Call American HVAC Services today.
 
 ## Newsroom
+- [American HVAC Services Publishes New Guide to Air Conditioning Contractor Reston](https://local-business-guides.github.io/american-hvac-services-reston/news/2026-11-23-american-hvac-services-publishes-new-guide-to-air/): American HVAC Services published a Reston air conditioning guide this week, along with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-23)
 - [American HVAC Services Publishes Guide to HVAC Company Reston](https://local-business-guides.github.io/american-hvac-services-reston/news/2026-11-17-american-hvac-services-publishes-guide-to-hvac/): American HVAC Services published a guide to HVAC Company Reston, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-17)
 - [American HVAC Services Shares Reston HVAC Guide and Related Media](https://local-business-guides.github.io/american-hvac-services-reston/news/2026-11-13-american-hvac-services-shares-reston-hvac-guide/): American HVAC Services published a guide about HVAC Contractor Reston, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-13)
 - [American HVAC Services Shares New HVAC Contractor Va Reston Information](https://local-business-guides.github.io/american-hvac-services-reston/news/2026-11-09-american-hvac-services-shares-new-hvac-contractor/): American HVAC Services has published new information about HVAC Contractor Va Reston in video, podcast and SoundCloud audio formats. (2026-11-09)
@@ -39,4 +40,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/american-hvac-services-reston/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/american-hvac-services-reston/news/rss.xml)
-- [Main resource site](https://american-hvac-reston.localwebsites.chatgpt.site)
+- [Main resource site](https://american-hvac-services-reston-va.localwebsites.chatgpt.site/news/2026-11-17-american-hvac-services-releases-reston-guide-video-and/)
